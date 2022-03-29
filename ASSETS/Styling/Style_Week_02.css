@@ -1,0 +1,29 @@
+html{
+
+background-color: #284646;
+
+}
+body{
+font-family: 'Anton', sans-serif;
+
+text-align: center;
+color: aliceblue;
+
+}
+img{
+
+width: 400px;
+border-width: 20px;
+border: 10px solid;
+border-color: rgb(255, 255, 255);
+margin: 10px;
+
+
+}
+p{
+color: aqua;
+}
+#ptNum_01{
+font-family: 'Anton', sans-serif;
+
+}
