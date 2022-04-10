@@ -3,11 +3,24 @@ html {
     background-color: rgb(255, 255, 255);
 
 }
+body{
+    font-family: 'Anton', sans-serif;
+    padding: 2%;
+}
+
+h1{
+
+    margin: auto;
+
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    color: rgb(51, 142, 25);
+}
 
 #divNum_01 {
 
     margin: auto;
-
+padding: 10px;
     text-align: center;
     font-family: 'Anton', sans-serif;
     color: rgb(51, 142, 25);
@@ -16,20 +29,49 @@ html {
 
 
  .slideShow_01{
-    font-family: 'Anton', sans-serif;
-    margin: auto;
-    border: 5px;
-    border-color: aqua;
-    background-color: aliceblue;
+   
+display: flex;
+margin: auto;
+    
 }
 img.slideShow_01{
 width: 480px;
+left: auto;
+right: auto;
+
+animation: pulse 2s;
+animation-iteration-count: infinite;
+
 
 }
 
 #imgNum_01{
 width: 240px;
+-ms-flex-align: initial;
 
 
 }
+
+
+button{
+border-radius: 20%;
+background-color: rgb(255, 255, 255);
+color: rgb(51, 142, 25);
+font-weight: bold;
+font-size: larger;
+padding: 10px;
+transition:  background-color 1s, padding 1s ease;
+display: flex;
+margin: auto;
+
+}
+button:hover{
+
+    background-color: rgb(182, 187, 187);
+}
+button::first-letter{
+font-size: x-large;
+
+}
+
 
