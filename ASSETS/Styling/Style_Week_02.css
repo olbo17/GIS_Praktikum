@@ -1,29 +1,34 @@
-html{
+html {
 
-background-color: #284646;
-
-}
-body{
-font-family: 'Anton', sans-serif;
-
-text-align: center;
-color: aliceblue;
+    background-color: rgb(255, 255, 255);
 
 }
-img{
 
-width: 400px;
-border-width: 20px;
-border: 10px solid;
-border-color: rgb(255, 255, 255);
-margin: 10px;
+#divNum_01 {
+
+    margin: auto;
+
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    color: rgb(51, 142, 25);
+
+}
+
+
+ .slideShow_01{
+    font-family: 'Anton', sans-serif;
+    margin: auto;
+    border: 5px;
+    border-color: aqua;
+}
+img.slideShow_01{
+width: 480px;
+
+}
+
+#imgNum_01{
+width: 240px;
 
 
 }
-p{
-color: aqua;
-}
-#ptNum_01{
-font-family: 'Anton', sans-serif;
 
-}
