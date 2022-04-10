@@ -20,6 +20,7 @@ html {
     margin: auto;
     border: 5px;
     border-color: aqua;
+    background-color: aliceblue;
 }
 img.slideShow_01{
 width: 480px;
