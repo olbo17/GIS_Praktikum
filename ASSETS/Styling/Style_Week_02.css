@@ -1,78 +1,35 @@
-html{
+html {
 
-background-color: #284646;
-
-}
-body{
-font-family: 'Anton', sans-serif;
-
-text-align: center;
-color: aliceblue;
-
-
-}
-button{
-
-align-content: center;
-
-}
-img{
-    
-
-width: 1280px;
-border-width: 20px;
-border: 10px solid;
-border-color: rgb(255, 255, 255);
-
-
-
-}
-p{
-color: aqua;
-}
-#ptNum_01{
-font-family: 'Anton', sans-serif;
-
-}
-header{
-    
-color: aqua;
+    background-color: rgb(255, 255, 255);
 
 }
 
-footer{
-margin: 50px;
+#divNum_01 {
 
-color: aqua;
+    margin: auto;
 
-
-}
-video{
-
-
-    width: 1280px;
-    height: 720px;
-    border-width: 20px;
-    border: 10px solid;
-    border-color: rgb(255, 255, 255);
-    margin: 10px;   
-}
-
-h1{
-
-margin: 20px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    color: rgb(51, 142, 25);
 
 }
 
-b{
-text-align: center;
-padding: 50px;
+
+ .slideShow_01{
+    font-family: 'Anton', sans-serif;
+    margin: auto;
+    border: 5px;
+    border-color: aqua;
+    background-color: aliceblue;
+}
+img.slideShow_01{
+width: 480px;
 
 }
-button{
 
-margin: 20px;
-color: rgb(211, 0, 253);
-background-color: rgb(146, 171, 190);
+#imgNum_01{
+width: 240px;
+
 
 }
+
